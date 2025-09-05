@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hi there, I'm Arpit Jatav 👋
 
-<!--
-**Arpitmurailya18/Arpitmurailya18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="400" src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6Dy/giphy.gif" alt="A waving developer GIF">
+I'm a passionate developer, currently diving deep into C++ and building cool projects like the Path & Pivot Algorithm Visualizer. I love turning complex problems into beautiful, interactive software.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my latest project name Path&Pivot
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about DSA, codeforces, problem solving
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 My Tech Stack
+
+Here are some of the technologies I've been working with:
+
+* **Languages:** C++, C, Python
+* **Libraries:** SFML, OpenGL (or others you've used)
+* **Tools:** Git, GitHub, Visual Studio Code
+
+---
+
+### 🚀 My Projects
+
+You can find all my work right here on my GitHub profile. My proudest project so far is:
+
+* **[Path & Pivot - An Interactive Algorithm Visualizer](https://github.com/Arpitmurailya18/Path-Pivot)**: A C++/SFML application I built from scratch to visualize classic sorting and pathfinding algorithms in real-time.
+
+---
+
+### 📊 My GitHub Stats
+
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitmurailya18&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to Reach Me
+
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/arpit-jatav/)
+* **Email:** arpitjatav2005@gmail.com
+
