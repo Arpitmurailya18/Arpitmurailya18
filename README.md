@@ -34,5 +34,6 @@ You can find all my work right here on my GitHub profile. My proudest project so
 ### 📫 How to Reach Me
 
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arpit-jatav/)
+* **Instagram:** [Insta profile](https://www.instagram.com/thisisarpit07/)
 * **Email:** arpitjatav2005@gmail.com
 
