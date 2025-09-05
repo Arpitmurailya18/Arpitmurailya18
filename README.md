@@ -1,4 +1,4 @@
-### Hi there, I'm Arpit Jatav 👋
+### Hola, Amigo 👋
 
 I'm a passionate developer, currently diving deep into C++ and building cool projects like the Path & Pivot Algorithm Visualizer. I love turning complex problems into beautiful, interactive software.
 
@@ -17,7 +17,7 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### 🚀 My Projects
+### 🚀 Projects
 
 You can find all my work right here on my GitHub profile. My proudest project so far is:
 
@@ -25,7 +25,7 @@ You can find all my work right here on my GitHub profile. My proudest project so
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitmurailya18&show_icons=true&theme=radical)
 
