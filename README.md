@@ -1,6 +1,5 @@
 ### Hi there, I'm Arpit Jatav 👋
 
-<img align="right" width="400" src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6Dy/giphy.gif" alt="A waving developer GIF">
 I'm a passionate developer, currently diving deep into C++ and building cool projects like the Path & Pivot Algorithm Visualizer. I love turning complex problems into beautiful, interactive software.
 
 - 🔭 I’m currently working on my latest project name Path&Pivot
@@ -28,12 +27,12 @@ You can find all my work right here on my GitHub profile. My proudest project so
 
 ### 📊 My GitHub Stats
 
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitmurailya18&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitmurailya18&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/arpit-jatav/)
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arpit-jatav/)
 * **Email:** arpitjatav2005@gmail.com
 
