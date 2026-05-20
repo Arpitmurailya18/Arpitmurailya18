@@ -12,7 +12,7 @@ I'm a passionate developer, currently diving deep into C++ and building cool pro
 Here are some of the technologies I've been working with:
 
 * **Languages:** C++, C, Python
-* **Libraries:** SFML, OpenGL (or others you've used)
+* **Libraries:** SFML, OpenGL.
 * **Tools:** Git, GitHub, Visual Studio Code
 
 ---
