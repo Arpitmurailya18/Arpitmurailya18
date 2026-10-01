@@ -1,9 +1,9 @@
 ### Hola, Amigo 👋
 
-I'm a passionate developer, currently diving deep into C++ and building cool projects like the Path & Pivot Algorithm Visualizer. I love turning complex problems into beautiful, interactive software.
+I'm a passionate developer, currently diving deep into C++ and building cool projects like the CP-Code Comparator. I love turning complex problems into beautiful, interactive software.
 
-- 🔭 I’m currently working on my latest project name Path&Pivot
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on my latest project name CP-Code Comparator
+- 🌱 I’m currently learning System Design
 - 💬 Ask me about DSA, codeforces, problem solving
 ---
 
@@ -12,7 +12,8 @@ I'm a passionate developer, currently diving deep into C++ and building cool pro
 Here are some of the technologies I've been working with:
 
 * **Languages:** C++, C, Python
-* **Libraries:** SFML, OpenGL.
+* **Libraries & Frameworks:** STL, SFML, Requests, FastAPI
+* **Backend:** REST APIs, JSON, HTTP
 * **Tools:** Git, GitHub, Visual Studio Code
 
 ---
