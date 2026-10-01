@@ -26,10 +26,6 @@ You can find all my work right here on my GitHub profile. My proudest project so
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitmurailya18&show_icons=true&theme=radical)
-
 ---
 
 ### 📫 How to Reach Me
