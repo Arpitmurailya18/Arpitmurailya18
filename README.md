@@ -26,8 +26,6 @@ You can find all my work right here on my GitHub profile. My proudest project so
 
 ---
 
----
-
 ### 📫 How to Reach Me
 
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arpit-jatav/)
